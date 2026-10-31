@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jaykumar9022.github.io/luhncheck-pro/sitemap.xml
